@@ -1,1 +1,1 @@
-hamster fun
+hamster fun!
